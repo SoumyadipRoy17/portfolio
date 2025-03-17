@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Socketron",
+    "imageSrc": "projects/Socketron.png",
+    "description": "A chat application with real time chat features and an AI bot which assists you to make various applications",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "MongoDB",
+      "Socket.io",
+      "Webcontainers"
+    ],
+    "demo": "https://webcontainerfrontend.netlify.app/login",
+    "source": "https://github.com/SoumyadipRoy17/GPTWebContainerFrontend"
+  },
+  {
+    "title": "Nike Store Clone",
+    "imageSrc": "projects/nike.png",
+    "description": "This is a project made to learn tailwind css by building a clone of the nike store.",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://mike-nike-page.netlify.app/",
+    "source": "https://github.com/SoumyadipRoy17/PRODIGY_WD_01"
+  },
+  {
+    "title": "Roys Blog Website",
+    "imageSrc": "projects/mern.png",
+    "description": "This is a project made to learn efficient MERN stack development by building a blog website.",
+    "skills": ["React", "Express", "Node", "MongoDB", "Firebase"],
+    "demo": "https://roys-mern-blog.onrender.com/",
+    "source": "https://www.github.com"
+  }
+]
