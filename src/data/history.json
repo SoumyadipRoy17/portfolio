@@ -1,10 +1,24 @@
 [
   {
+    "role": "AI Developer Intern",
+    "organisation": "Bharat Electronics Limited",
+    "startDate": "May, 2025",
+    "endDate": "June, 2025",
+    "experiences": [
+      "Worked on Offline PDF Summarizer using TF-IDF and BERT",
+      "Used Hugging Face APi to create an online version of it "
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
     "role": "Full Stack Web Developer Intern",
     "organisation": "Aries Exim Co. Pvt. Ltd.",
     "startDate": "Apr, 2024",
     "endDate": "Jul, 2024",
-    "experiences": ["Worked on Smart Auditing Website"],
+    "experiences": [
+      "Worked on Smart Auditing Website",
+      "Developed a web application for auditing purposes using PHP"
+    ],
     "imageSrc": "history/google.png"
   }
 ]

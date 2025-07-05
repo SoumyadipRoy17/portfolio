@@ -1,5 +1,37 @@
 [
   {
+    "title": "Github Wizard",
+    "imageSrc": "projects/course_gen_ai.png",
+    "description": "Developed an AI Course Generator using Next.js, Tailwind CSS, ShadCN UI , gemini api deployed using aws ec2 and docker with dynamic routing .",
+    "skills": [
+      "Next.js",
+      "Prisma & Neon DB",
+      "ShadCN UI",
+      "Gemini API",
+      "RAG",
+      "Vector DB",
+      "Vercel",
+      "Assembly AI"
+    ],
+    "demo": "https://course-gen-ai.soumyadip-roy.me",
+    "source": "https://github.com/SoumyadipRoy17/Course_Gen_ai"
+  },
+  {
+    "title": "AI Course Generator",
+    "imageSrc": "projects/course_gen_ai.png",
+    "description": "Developed an AI Course Generator using Next.js, Tailwind CSS, ShadCN UI , gemini api deployed using aws ec2 and docker with dynamic routing .",
+    "skills": [
+      "Next.js",
+      "Prisma & Neon DB",
+      "ShadCN UI",
+      "Gemini API",
+      "EC2 & Docker",
+      "Nginx Reverse Proxy"
+    ],
+    "demo": "https://course-gen-ai.soumyadip-roy.me",
+    "source": "https://github.com/SoumyadipRoy17/Course_Gen_ai"
+  },
+  {
     "title": "Socketron",
     "imageSrc": "projects/Socketron.png",
     "description": "Real time chat app and an AI bot which assists you to make various applications",
@@ -11,6 +43,7 @@
       "Socket.io",
       "Webcontainers"
     ],
+
     "demo": "https://webcontainerfrontend.netlify.app/login",
     "source": "https://github.com/SoumyadipRoy17/GPTWebContainerFrontend"
   },
